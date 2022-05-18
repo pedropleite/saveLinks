@@ -4,8 +4,7 @@
 <br>
 
 # Sobre esse projeto 🔍
-<p>Aplicação com o intuito de armazenar sites a partir de dados oferecidos pelo usuário, permitindo a observação desses dados guardados, acesso ao link fornecido, 
-  edição dos dados e muito mais. Construido no padrão MVC. </p>
+<p>Aplicação com o intuito de armazenar sites a partir de dados oferecidos pelo usuário em um banco de dados, permitindo a observação desses dados guardados, acesso ao link fornecido, edição dos dados e muito mais. Construido no padrão MVC. </p>
 <br> 
 
 # Tecnologias utilizadas 💻
